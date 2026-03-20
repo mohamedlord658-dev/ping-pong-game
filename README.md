@@ -16,7 +16,7 @@
 - Pygame
 
 ## 📸 لقطات شاشة:
-![screenshot](screenshot.png)
+![screenshot](Screenshot 2026-03-20 171035.png)
 
 ---
 *مشروع #1 في رحلتي كمطور ألعاب*
